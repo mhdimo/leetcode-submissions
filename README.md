@@ -3,7 +3,7 @@
 Archive of my accepted LeetCode solutions. One folder per problem.
 Each folder holds the latest accepted submission and its metadata.
 
-**Solved:** 35 (19 easy, 15 medium, 1 hard)
+**Solved:** 40 (21 easy, 18 medium, 1 hard)
 
 | # | Problem | Difficulty | Language | Accepted |
 |---|---------|------------|----------|----------|
@@ -13,16 +13,20 @@ Each folder holds the latest accepted submission and its metadata.
 | 9 | [Palindrome Number](solutions/0009-palindrome-number/) | Easy | C++ | 2025-07-21 |
 | 12 | [Integer to Roman](solutions/0012-integer-to-roman/) | Medium | C++ | 2025-07-20 |
 | 13 | [Roman to Integer](solutions/0013-roman-to-integer/) | Easy | C++ | 2025-07-20 |
+| 22 | [Generate Parentheses](solutions/0022-generate-parentheses/) | Medium | C++ | 2025-07-21 |
 | 24 | [Swap Nodes in Pairs](solutions/0024-swap-nodes-in-pairs/) | Medium | C++ | 2025-06-11 |
 | 26 | [Remove Duplicates from Sorted Array](solutions/0026-remove-duplicates-from-sorted-array/) | Easy | C++ | 2025-06-12 |
 | 27 | [Remove Element](solutions/0027-remove-element/) | Easy | C++ | 2025-06-12 |
+| 39 | [Combination Sum](solutions/0039-combination-sum/) | Medium | C++ | 2025-07-21 |
 | 53 | [Maximum Subarray](solutions/0053-maximum-subarray/) | Medium | C++ | 2025-06-11 |
 | 70 | [Climbing Stairs](solutions/0070-climbing-stairs/) | Easy | C++ | 2025-07-20 |
 | 80 | [Remove Duplicates from Sorted Array II](solutions/0080-remove-duplicates-from-sorted-array-ii/) | Medium | C++ | 2025-06-12 |
+| 138 | [Copy List with Random Pointer](solutions/0138-copy-list-with-random-pointer/) | Medium | C++ | 2025-07-22 |
 | 167 | [Two Sum II - Input Array Is Sorted](solutions/0167-two-sum-ii-input-array-is-sorted/) | Medium | C++ | 2025-06-09 |
 | 191 | [Number of 1 Bits](solutions/0191-number-of-1-bits/) | Easy | C++ | 2025-06-09 |
 | 203 | [Remove Linked List Elements](solutions/0203-remove-linked-list-elements/) | Easy | C++ | 2025-06-12 |
 | 204 | [Count Primes](solutions/0204-count-primes/) | Medium | C++ | 2025-06-13 |
+| 217 | [Contains Duplicate](solutions/0217-contains-duplicate/) | Easy | C++ | 2025-07-22 |
 | 231 | [Power of Two](solutions/0231-power-of-two/) | Easy | C++ | 2025-06-09 |
 | 279 | [Perfect Squares](solutions/0279-perfect-squares/) | Medium | C++ | 2025-06-12 |
 | 283 | [Move Zeroes](solutions/0283-move-zeroes/) | Easy | C++ | 2025-06-12 |
@@ -36,6 +40,7 @@ Each folder holds the latest accepted submission and its metadata.
 | 1957 | [Delete Characters to Make Fancy String](solutions/1957-delete-characters-to-make-fancy-string/) | Easy | C++ | 2025-07-21 |
 | 2264 | [Largest 3-Same-Digit Number in String](solutions/2264-largest-3-same-digit-number-in-string/) | Easy | C++ | 2025-06-12 |
 | 2269 | [Find the K-Beauty of a Number](solutions/2269-find-the-k-beauty-of-a-number/) | Easy | C++ | 2025-06-12 |
+| 2357 | [Make Array Zero by Subtracting Equal Amounts](solutions/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy | C++ | 2025-07-22 |
 | 2460 | [Apply Operations to an Array](solutions/2460-apply-operations-to-an-array/) | Easy | C++ | 2025-06-12 |
 | 2818 | [Apply Operations to Maximize Score](solutions/2818-apply-operations-to-maximize-score/) | Hard | Python3 | 2025-03-29 |
 | 2873 | [Maximum Value of an Ordered Triplet I](solutions/2873-maximum-value-of-an-ordered-triplet-i/) | Easy | C++ | 2025-06-11 |
