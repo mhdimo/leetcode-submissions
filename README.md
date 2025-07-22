@@ -3,7 +3,7 @@
 Archive of my accepted LeetCode solutions. One folder per problem.
 Each folder holds the latest accepted submission and its metadata.
 
-**Solved:** 40 (21 easy, 18 medium, 1 hard)
+**Solved:** 45 (24 easy, 20 medium, 1 hard)
 
 | # | Problem | Difficulty | Language | Accepted |
 |---|---------|------------|----------|----------|
@@ -32,12 +32,17 @@ Each folder holds the latest accepted submission and its metadata.
 | 283 | [Move Zeroes](solutions/0283-move-zeroes/) | Easy | C++ | 2025-06-12 |
 | 371 | [Sum of Two Integers](solutions/0371-sum-of-two-integers/) | Medium | C++ | 2025-06-11 |
 | 392 | [Is Subsequence](solutions/0392-is-subsequence/) | Easy | C++ | 2025-06-12 |
+| 496 | [Next Greater Element I](solutions/0496-next-greater-element-i/) | Easy | C++ | 2025-07-22 |
+| 739 | [Daily Temperatures](solutions/0739-daily-temperatures/) | Medium | C++ | 2025-07-22 |
 | 744 | [Find Smallest Letter Greater Than Target](solutions/0744-find-smallest-letter-greater-than-target/) | Easy | C++ | 2025-06-12 |
 | 746 | [Min Cost Climbing Stairs](solutions/0746-min-cost-climbing-stairs/) | Easy | C++ | 2025-06-13 |
 | 1049 | [Last Stone Weight II](solutions/1049-last-stone-weight-ii/) | Medium | C++ | 2025-06-12 |
 | 1233 | [Remove Sub-Folders from the Filesystem](solutions/1233-remove-sub-folders-from-the-filesystem/) | Medium | C++ | 2025-07-21 |
+| 1603 | [Design Parking System](solutions/1603-design-parking-system/) | Easy | C++ | 2025-07-22 |
+| 1710 | [Maximum Units on a Truck](solutions/1710-maximum-units-on-a-truck/) | Easy | C++ | 2025-07-22 |
 | 1903 | [Largest Odd Number in String](solutions/1903-largest-odd-number-in-string/) | Easy | C++ | 2025-06-12 |
 | 1957 | [Delete Characters to Make Fancy String](solutions/1957-delete-characters-to-make-fancy-string/) | Easy | C++ | 2025-07-21 |
+| 2104 | [Sum of Subarray Ranges](solutions/2104-sum-of-subarray-ranges/) | Medium | C++ | 2025-07-22 |
 | 2264 | [Largest 3-Same-Digit Number in String](solutions/2264-largest-3-same-digit-number-in-string/) | Easy | C++ | 2025-06-12 |
 | 2269 | [Find the K-Beauty of a Number](solutions/2269-find-the-k-beauty-of-a-number/) | Easy | C++ | 2025-06-12 |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](solutions/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy | C++ | 2025-07-22 |
