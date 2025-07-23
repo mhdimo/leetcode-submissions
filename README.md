@@ -3,7 +3,7 @@
 Archive of my accepted LeetCode solutions. One folder per problem.
 Each folder holds the latest accepted submission and its metadata.
 
-**Solved:** 45 (24 easy, 20 medium, 1 hard)
+**Solved:** 50 (28 easy, 21 medium, 1 hard)
 
 | # | Problem | Difficulty | Language | Accepted |
 |---|---------|------------|----------|----------|
@@ -19,8 +19,11 @@ Each folder holds the latest accepted submission and its metadata.
 | 27 | [Remove Element](solutions/0027-remove-element/) | Easy | C++ | 2025-06-12 |
 | 39 | [Combination Sum](solutions/0039-combination-sum/) | Medium | C++ | 2025-07-21 |
 | 53 | [Maximum Subarray](solutions/0053-maximum-subarray/) | Medium | C++ | 2025-06-11 |
+| 69 | [Sqrt(x)](solutions/0069-sqrtx/) | Easy | C++ | 2025-07-23 |
 | 70 | [Climbing Stairs](solutions/0070-climbing-stairs/) | Easy | C++ | 2025-07-20 |
 | 80 | [Remove Duplicates from Sorted Array II](solutions/0080-remove-duplicates-from-sorted-array-ii/) | Medium | C++ | 2025-06-12 |
+| 100 | [Same Tree](solutions/0100-same-tree/) | Easy | C++ | 2025-07-22 |
+| 101 | [Symmetric Tree](solutions/0101-symmetric-tree/) | Easy | C++ | 2025-07-22 |
 | 138 | [Copy List with Random Pointer](solutions/0138-copy-list-with-random-pointer/) | Medium | C++ | 2025-07-22 |
 | 167 | [Two Sum II - Input Array Is Sorted](solutions/0167-two-sum-ii-input-array-is-sorted/) | Medium | C++ | 2025-06-09 |
 | 191 | [Number of 1 Bits](solutions/0191-number-of-1-bits/) | Easy | C++ | 2025-06-09 |
@@ -30,9 +33,11 @@ Each folder holds the latest accepted submission and its metadata.
 | 231 | [Power of Two](solutions/0231-power-of-two/) | Easy | C++ | 2025-06-09 |
 | 279 | [Perfect Squares](solutions/0279-perfect-squares/) | Medium | C++ | 2025-06-12 |
 | 283 | [Move Zeroes](solutions/0283-move-zeroes/) | Easy | C++ | 2025-06-12 |
+| 367 | [Valid Perfect Square](solutions/0367-valid-perfect-square/) | Easy | C++ | 2025-07-23 |
 | 371 | [Sum of Two Integers](solutions/0371-sum-of-two-integers/) | Medium | C++ | 2025-06-11 |
 | 392 | [Is Subsequence](solutions/0392-is-subsequence/) | Easy | C++ | 2025-06-12 |
 | 496 | [Next Greater Element I](solutions/0496-next-greater-element-i/) | Easy | C++ | 2025-07-22 |
+| 633 | [Sum of Square Numbers](solutions/0633-sum-of-square-numbers/) | Medium | C++ | 2025-07-23 |
 | 739 | [Daily Temperatures](solutions/0739-daily-temperatures/) | Medium | C++ | 2025-07-22 |
 | 744 | [Find Smallest Letter Greater Than Target](solutions/0744-find-smallest-letter-greater-than-target/) | Easy | C++ | 2025-06-12 |
 | 746 | [Min Cost Climbing Stairs](solutions/0746-min-cost-climbing-stairs/) | Easy | C++ | 2025-06-13 |
