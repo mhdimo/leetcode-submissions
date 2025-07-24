@@ -3,12 +3,13 @@
 Archive of my accepted LeetCode solutions. One folder per problem.
 Each folder holds the latest accepted submission and its metadata.
 
-**Solved:** 55 (30 easy, 24 medium, 1 hard)
+**Solved:** 60 (32 easy, 27 medium, 1 hard)
 
 | # | Problem | Difficulty | Language | Accepted |
 |---|---------|------------|----------|----------|
 | 1 | [Two Sum](solutions/0001-two-sum/) | Easy | C++ | 2025-06-09 |
 | 2 | [Add Two Numbers](solutions/0002-add-two-numbers/) | Medium | C++ | 2025-06-11 |
+| 3 | [Longest Substring Without Repeating Characters](solutions/0003-longest-substring-without-repeating-characters/) | Medium | Python3 | 2025-07-23 |
 | 6 | [Zigzag Conversion](solutions/0006-zigzag-conversion/) | Medium | C++ | 2025-07-23 |
 | 7 | [Reverse Integer](solutions/0007-reverse-integer/) | Medium | C++ | 2025-07-23 |
 | 8 | [String to Integer (atoi)](solutions/0008-string-to-integer-atoi/) | Medium | C++ | 2025-07-21 |
@@ -22,7 +23,10 @@ Each folder holds the latest accepted submission and its metadata.
 | 26 | [Remove Duplicates from Sorted Array](solutions/0026-remove-duplicates-from-sorted-array/) | Easy | C++ | 2025-06-12 |
 | 27 | [Remove Element](solutions/0027-remove-element/) | Easy | C++ | 2025-06-12 |
 | 39 | [Combination Sum](solutions/0039-combination-sum/) | Medium | C++ | 2025-07-21 |
+| 43 | [Multiply Strings](solutions/0043-multiply-strings/) | Medium | Python3 | 2025-07-23 |
 | 53 | [Maximum Subarray](solutions/0053-maximum-subarray/) | Medium | C++ | 2025-06-11 |
+| 66 | [Plus One](solutions/0066-plus-one/) | Easy | C++ | 2025-07-24 |
+| 67 | [Add Binary](solutions/0067-add-binary/) | Easy | Python3 | 2025-07-23 |
 | 69 | [Sqrt(x)](solutions/0069-sqrtx/) | Easy | C++ | 2025-07-23 |
 | 70 | [Climbing Stairs](solutions/0070-climbing-stairs/) | Easy | C++ | 2025-07-20 |
 | 80 | [Remove Duplicates from Sorted Array II](solutions/0080-remove-duplicates-from-sorted-array-ii/) | Medium | C++ | 2025-06-12 |
@@ -56,6 +60,7 @@ Each folder holds the latest accepted submission and its metadata.
 | 2269 | [Find the K-Beauty of a Number](solutions/2269-find-the-k-beauty-of-a-number/) | Easy | C++ | 2025-06-12 |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](solutions/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy | C++ | 2025-07-22 |
 | 2460 | [Apply Operations to an Array](solutions/2460-apply-operations-to-an-array/) | Easy | C++ | 2025-06-12 |
+| 2622 | [Cache With Time Limit](solutions/2622-cache-with-time-limit/) | Medium | JavaScript | 2025-07-23 |
 | 2778 | [Sum of Squares of Special Elements](solutions/2778-sum-of-squares-of-special-elements/) | Easy | C++ | 2025-07-23 |
 | 2818 | [Apply Operations to Maximize Score](solutions/2818-apply-operations-to-maximize-score/) | Hard | Python3 | 2025-03-29 |
 | 2873 | [Maximum Value of an Ordered Triplet I](solutions/2873-maximum-value-of-an-ordered-triplet-i/) | Easy | C++ | 2025-06-11 |
