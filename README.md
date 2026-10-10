@@ -3,13 +3,14 @@
 Archive of my accepted LeetCode solutions. One folder per problem.
 Each folder holds the latest accepted submission and its metadata.
 
-**Solved:** 60 (32 easy, 27 medium, 1 hard)
+**Solved:** 65 (33 easy, 31 medium, 1 hard)
 
 | # | Problem | Difficulty | Language | Accepted |
 |---|---------|------------|----------|----------|
 | 1 | [Two Sum](solutions/0001-two-sum/) | Easy | C++ | 2025-06-09 |
 | 2 | [Add Two Numbers](solutions/0002-add-two-numbers/) | Medium | C++ | 2025-06-11 |
 | 3 | [Longest Substring Without Repeating Characters](solutions/0003-longest-substring-without-repeating-characters/) | Medium | Python3 | 2025-07-23 |
+| 5 | [Longest Palindromic Substring](solutions/0005-longest-palindromic-substring/) | Medium | C++ | 2026-04-27 |
 | 6 | [Zigzag Conversion](solutions/0006-zigzag-conversion/) | Medium | C++ | 2025-07-23 |
 | 7 | [Reverse Integer](solutions/0007-reverse-integer/) | Medium | C++ | 2025-07-23 |
 | 8 | [String to Integer (atoi)](solutions/0008-string-to-integer-atoi/) | Medium | C++ | 2025-07-21 |
@@ -33,6 +34,7 @@ Each folder holds the latest accepted submission and its metadata.
 | 100 | [Same Tree](solutions/0100-same-tree/) | Easy | C++ | 2025-07-22 |
 | 101 | [Symmetric Tree](solutions/0101-symmetric-tree/) | Easy | C++ | 2025-07-22 |
 | 138 | [Copy List with Random Pointer](solutions/0138-copy-list-with-random-pointer/) | Medium | C++ | 2025-07-22 |
+| 146 | [LRU Cache](solutions/0146-lru-cache/) | Medium | Python3 | 2026-08-12 |
 | 167 | [Two Sum II - Input Array Is Sorted](solutions/0167-two-sum-ii-input-array-is-sorted/) | Medium | C++ | 2025-06-09 |
 | 191 | [Number of 1 Bits](solutions/0191-number-of-1-bits/) | Easy | C++ | 2025-06-09 |
 | 203 | [Remove Linked List Elements](solutions/0203-remove-linked-list-elements/) | Easy | C++ | 2025-06-12 |
@@ -45,10 +47,12 @@ Each folder holds the latest accepted submission and its metadata.
 | 371 | [Sum of Two Integers](solutions/0371-sum-of-two-integers/) | Medium | C++ | 2025-06-11 |
 | 392 | [Is Subsequence](solutions/0392-is-subsequence/) | Easy | C++ | 2025-06-12 |
 | 496 | [Next Greater Element I](solutions/0496-next-greater-element-i/) | Easy | C++ | 2025-07-22 |
+| 567 | [Permutation in String](solutions/0567-permutation-in-string/) | Medium | Python3 | 2026-08-10 |
 | 633 | [Sum of Square Numbers](solutions/0633-sum-of-square-numbers/) | Medium | C++ | 2025-07-23 |
 | 739 | [Daily Temperatures](solutions/0739-daily-temperatures/) | Medium | C++ | 2025-07-22 |
 | 744 | [Find Smallest Letter Greater Than Target](solutions/0744-find-smallest-letter-greater-than-target/) | Easy | C++ | 2025-06-12 |
 | 746 | [Min Cost Climbing Stairs](solutions/0746-min-cost-climbing-stairs/) | Easy | C++ | 2025-06-13 |
+| 875 | [Koko Eating Bananas](solutions/0875-koko-eating-bananas/) | Medium | C++ | 2026-10-10 |
 | 1049 | [Last Stone Weight II](solutions/1049-last-stone-weight-ii/) | Medium | C++ | 2025-06-12 |
 | 1233 | [Remove Sub-Folders from the Filesystem](solutions/1233-remove-sub-folders-from-the-filesystem/) | Medium | C++ | 2025-07-21 |
 | 1603 | [Design Parking System](solutions/1603-design-parking-system/) | Easy | C++ | 2025-07-22 |
@@ -56,6 +60,7 @@ Each folder holds the latest accepted submission and its metadata.
 | 1903 | [Largest Odd Number in String](solutions/1903-largest-odd-number-in-string/) | Easy | C++ | 2025-06-12 |
 | 1957 | [Delete Characters to Make Fancy String](solutions/1957-delete-characters-to-make-fancy-string/) | Easy | C++ | 2025-07-21 |
 | 2104 | [Sum of Subarray Ranges](solutions/2104-sum-of-subarray-ranges/) | Medium | C++ | 2025-07-22 |
+| 2185 | [Counting Words With a Given Prefix](solutions/2185-counting-words-with-a-given-prefix/) | Easy | C++ | 2026-02-10 |
 | 2264 | [Largest 3-Same-Digit Number in String](solutions/2264-largest-3-same-digit-number-in-string/) | Easy | C++ | 2025-06-12 |
 | 2269 | [Find the K-Beauty of a Number](solutions/2269-find-the-k-beauty-of-a-number/) | Easy | C++ | 2025-06-12 |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](solutions/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy | C++ | 2025-07-22 |
